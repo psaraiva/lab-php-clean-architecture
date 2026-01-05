@@ -1,4 +1,4 @@
-# Lab 34483350
+# Lab PHP Clean Architecture
 
 ## Objetivo
 Testar a arquitetura fornecida no curso [Arquitetura Hexagonal/Ports and Adapters NA PRÁTICA](https://www.udemy.com/course/arquitetura-hexagonal-ou-ports-and-adapters-na-pratica)
